@@ -1,0 +1,11 @@
+product_id,product_name,category,stock_quantity,unit_cost,supplier,reorder_level,last_updated
+101,Laptop Dell,Computadoras,25,650.00,Dell Inc.,10,2023-01-30
+102,Mouse Logitech,Periféricos,150,18.00,Logitech,50,2023-01-30
+103,Teclado Mecánico,Periféricos,75,55.00,Corsair,25,2023-01-30
+104,Monitor Samsung,Monitores,30,240.00,Samsung,15,2023-01-30
+105,Impresora HP,Impresoras,20,135.00,HP Inc.,8,2023-01-30
+106,Disco Duro Externo,Almacenamiento,45,90.00,Seagate,20,2023-01-30
+107,Webcam Logitech,Periféricos,60,48.00,Logitech,30,2023-01-30
+108,Altavoces Bluetooth,Audio,80,32.00,JBL,40,2023-01-30
+109,Tablet Samsung,Tablets,18,280.00,Samsung,10,2023-01-30
+110,Cable USB-C,Cables,200,8.00,Anker,100,2023-01-30
